@@ -6,5 +6,3 @@ Live in Russia.
 IDE: VS.CODE
 
 OS: Windows 11
-
-![Uploading the-walten-files.gif…]()
