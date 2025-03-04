@@ -1,5 +1,5 @@
 # serg0
-Hi! I`m great coder in C++/C, Python, Haxe etc.
+Hi! I`m good coder in C++/C, Python, Haxe etc.
 
 Live in Russia.
 
